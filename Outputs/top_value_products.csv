@@ -1,0 +1,96 @@
+Sub Category,Title,FinalPrice,Rating_num,Reviews,ValueScore,BayesRating
+Bakery & Desserts,"The Cake Bake Shop 8"" Round Chocolate Cake (16-22 Servings)",159.99,5.0,2,0.9765531060374365,4.4674874603335795
+Bakery & Desserts,"The Cake Bake Shop 8"" Round Carrot Cake (16-22 Servings)",159.99,5.0,1,0.9765531060374365,4.457626117006424
+Bakery & Desserts,deMilan Panettone Classico Tin Cake 2.2 lb Tin,24.99,4.7,687,0.9443436872128761,4.68190785178155
+Bakery & Desserts,"David's Cookies Butter Pecan Meltaways 32 oz, 2-pack",39.99,4.7,9459,0.9420891781948412,4.69859249477695
+Bakery & Desserts,David's Cookies 90-piece Gourmet Chocolate Chunk Frozen Cookie Dough,54.99,4.7,273,0.9398346691768062,4.658931933491862
+Beverages & Water,"Joyburst Energy Variety, 12 fl oz, 18-count",32.99,5.0,1,0.9956412823901324,4.457626117006424
+Beverages & Water,"Pulp & Press Organic Cold-Pressed Juice Variety Pack, 18-pack",99.99,5.0,6,0.9855711421095763,4.5035900053957105
+Beverages & Water,Tiesta Tea Loose Leaf Tea Variety 3-Pack (16 oz each),69.99,4.9,62,0.9725801601500212,4.6914070462464945
+Beverages & Water,"Cherry Bay Orchards Tart Cherry Concentrate 32 fl. oz., 2-pack",39.99,4.8,1251,0.9595891781904661,4.785668566195051
+Beverages & Water,"Sencha Naturals Everyday Matcha Green Tea Powder, 3-pack",49.99,4.8,1150,0.9580861721784428,4.7844653452355335
+Breakfast,NuTrail Keto Nut Granola Blueberry Cinnamon 2-Pack (22 oz each),28.99,4.8,1275,0.9612424848036917,4.785927568010803
+Breakfast,"General Mills, Cheerios Cereal, Honey Nut, 27.5 oz, 2-Count",8.19,4.75,0,0.9556187373108878,4.447392647515979
+Breakfast,"Idaho Spuds, Golden Grill Hashbrown Potatoes, 33.1 oz",9.49,4.75,0,0.9554233465293247,4.447392647515979
+Breakfast,"Post, Honey Bunches of Oats with Almonds Cereal, 50 oz",9.69,4.75,0,0.9553932864090842,4.447392647515979
+Breakfast,"Kirkland Signature Whole Grain Rolled Oats, 10 LBS",9.99,4.75,0,0.9553481962287235,4.447392647515979
+Candy,"Utah Truffle Milk Chocolate Mint Truffles 16 oz, 2-pack",29.99,4.9,761,0.9785921841981144,4.870530479506569
+Candy,"Utah Truffles Dark Chocolate Truffles With Sea Salt 16 oz, 2-pack",29.99,4.8,227,0.9610921842024893,4.733256465422667
+Candy,"Ghirardelli Chocolate Squares Premium Chocolate Assortment, 23.8 oz",18.99,4.7,601,0.94524549082009,4.67952876195466
+Candy,Page Not Found!,18.99,4.7,68,0.94524549082009,4.589353804283859
+Candy,"Sanders Milk Chocolate Sea Salt Caramels 36 oz., 2-pack",34.99,4.7,2848,0.9428406812008527,4.695384974256584
+Cleaning Supplies,"The Unscented Company Dryer Balls, 6-count",34.99,4.9,7,0.9778406811921028,4.5001968386391145
+Cleaning Supplies,"The Unscented Company Liquid Dish Soap Refill Box, 337.92 fl oz",41.99,4.9,12,0.9767885769836866,4.530950927974568
+Cleaning Supplies,"Bona Hardwood Floor Cleaner, Original, 32 fl oz & 128 fl oz Ready-To-Use Refill",29.99,4.8,997,0.9610921842024893,4.782201724112712
+Cleaning Supplies,"Nellie’s Laundry Soda, 400 Loads",42.99,4.8,2658,0.959138276386859,4.793106532762208
+Cleaning Supplies,"Nellie's Laundry Soda, 800 Loads",89.99,4.8,1171,0.9520741481303496,4.7847318711751194
+Coffee,"San Francisco French Roast Whole Bean Coffee 3 lb, 2-pack",34.99,4.8,2468,0.9603406811964776,4.792586993382922
+Coffee,"Ruta Maya Organic Dark Roast Coffee, 5 lbs",44.99,4.8,2216,0.9588376751844544,4.791763688990016
+Coffee,"Kirkland Signature Costa Rica Coffee 3 lb, 2-pack",37.99,4.7,2762,0.9423897793972458,4.6952439823511
+Coffee,"Kirkland Signature Rwandan Coffee 3 lb, 2-pack",37.99,4.7,1903,0.9423897793972458,4.693155322248644
+Coffee,"Mayorga Café Cubano Roast, USDA Organic, Dark Roast, Whole Bean Coffee, 2lb, 2-pack",39.99,4.7,1948,0.9420891781948412,4.693309250533906
+Deli,"Plaza Osetra Farmed Bulgarian Sturgeon Caviar 2 oz, 3-pack",199.99,4.6,2452,0.9005410820068434,4.596771181763811
+Deli,"Noel Consorcio Serrano Ham Reserva Leg, 14 lbs",109.99,4.5,0,0.896568136119428,4.447392647515979
+Deli,Tsar Nicoulai Classic White Sturgeon Caviar 2 oz Gift Set,119.99,4.5,220,0.8950651301074047,4.489786850982956
+Deli,"Plaza Osetra Farmed Bulgarian Sturgeon Caviar, 2 oz Gift Set",124.99,4.5,996,0.8943136271013931,4.497342049874496
+Deli,Plaza Golden Osetra 2 oz Caviar Gift Set,169.99,4.5,268,0.8875501000472883,4.491314050835971
+Floral,Fresh Wedding Garland,109.99,4.8,3452,0.9490681361063029,4.7946681341849775
+Floral,Wedding Variety Collection,59.99,4.7,310,0.9390831661707946,4.663117934761286
+Floral,40-stem Sunflowers,59.99,4.7,15,0.9390831661707946,4.503114857622749
+Floral,"6' Wedding Runner, 4-pack",109.99,4.7,3119,0.931568136110678,4.695779259242859
+Floral,"Mini Floral Centerpieces, 9-count",109.99,4.7,2421,0.931568136110678,4.69458844394436
+Gift Baskets,eat.art Salt and Spice Set 2-pack,44.99,5.0,3,0.9938376751757044,4.476996612827623
+Gift Baskets,Old Fashioned Whiskey Time & Snacks Gift Set ,69.99,5.0,2,0.9900801601456461,4.4674874603335795
+Gift Baskets,TRE Olive Merenda Gift Box,69.99,5.0,1,0.9900801601456461,4.457626117006424
+Gift Baskets,Jacques Torres Assorted Chocolate Large Hat Box,149.99,5.0,3,0.9780561120494597,4.476996612827623
+Gift Baskets,"Tea Forte Lotus Spa Bundle, 25 Tea Packs and One Cup",49.99,4.8,17,0.9580861721784428,4.53302586169067
+Household,"Bostitch 1/4"" Premium Staples, Standard Chisel Point, 5,000 Staples, 5-count",4.49,4.340356564019449,0,0.8844872482566617,4.447392647515979
+Household,"Nouvelle Legende Flame Retardant Oven Mitt, Black, 2-count",5.49,4.340356564019449,0,0.8843369476554594,4.447392647515979
+Household,"Winco Cutting Board, 12"" x 18"" x 1/2"" - White",7.49,4.340356564019449,0,0.8840363464530547,4.447392647515979
+Household,"Tramontina ProLine Windsor Teaspoon, Stainless Steel, 36-count",8.49,4.340356564019449,0,0.8838860458518524,4.447392647515979
+Household,"Nouvelle Legende Ribbed Microfiber Bar Towel, White with Green Stripe, 14 in x 18 in, 12-count",8.99,4.340356564019449,0,0.8838108955512513,4.447392647515979
+Kirkland Signature Grocery,"Kirkland Signature Nitrile Exam Gloves, 400-count",27.99,4.8,4595,0.961392785404894,4.795979305145944
+Kirkland Signature Grocery,"Kirkland Signature Super B-Complex with Electrolytes, 500 Tablets",15.99,4.7,2218,0.945696392623697,4.694104716124327
+Kirkland Signature Grocery,Kirkland Signature Small Formula Chicken & Vegetable Dog Food 20 lb.,32.99,4.7,4394,0.9431412824032575,4.696989388423285
+Kirkland Signature Grocery,"Kirkland Signature Dental Chews, 72-count",36.99,4.7,5134,0.9425400799984481,4.697418895376585
+Kirkland Signature Grocery,"Kirkland Signature Costa Rica Coffee 3 lb, 2-pack",37.99,4.7,2762,0.9423897793972458,4.6952439823511
+Laundry Detergent & Supplies,"The Unscented Company Dryer Balls, 6-count",34.99,4.9,7,0.9778406811921028,4.5001968386391145
+Laundry Detergent & Supplies,"Nellie’s Laundry Soda, 400 Loads",42.99,4.8,2658,0.959138276386859,4.793106532762208
+Laundry Detergent & Supplies,"Nellie's Laundry Soda, 800 Loads",89.99,4.8,1171,0.9520741481303496,4.7847318711751194
+Laundry Detergent & Supplies,"Scotch-Brite Lint Roller, 95-count, 5-pack",17.89,4.7,896,0.9454108214814125,4.685892318565171
+Laundry Detergent & Supplies,"ECOS HE Liquid Laundry Detergent, Free & Clear, 210 Loads, 210 fl oz, 2-count",38.99,4.7,2060,0.9422394787960435,4.693663895086771
+Meat & Seafood,"Sampler: Dry-Cured Acorn-Fed 100% Iberico Pork Ham and Salami and Chorizo, 4.5 oz, 3-pack",64.99,5.0,6,0.9908316631516578,4.5035900053957105
+Meat & Seafood,"Portoro Australian Primal Beef Striploin - 1 Total Pack, Min Weight 6 Lbs.",249.99,5.0,1,0.9630260519292269,4.457626117006424
+Meat & Seafood,"Halal Certified Lamb Box - (2/2 20-22 Oz. Rack of Lambs, 2/2 1.5 Lbs. Lamb Fore Shank, 1/1 3.5 Lbs. Denver Ribs) 5 Total Packs, 9.3 Lbs. Total",139.99,4.9,7,0.9620591180658582,4.5001968386391145
+Meat & Seafood,"Crescent Foods Halal Hand-Cut Lamb Locker Pack - 9 Total Packs,  9 Lbs. Total",159.99,4.9,10,0.9590531060418116,4.519235084418205
+Meat & Seafood,"Northfork Ground Bison - (10/1 Lb. Per Pack), 10 Total Packs, 10 Lbs. Total",109.99,4.7,104,0.931568136110678,4.614724906486286
+Organic,"Ruta Maya Organic Dark Roast Coffee, 5 lbs",44.99,4.8,2216,0.9588376751844544,4.791763688990016
+Organic,"Acetum Organic Apple Cider Vinegar with the Mother, 128 fl. oz.",27.99,4.7,571,0.9438927854092691,4.678544567817863
+Organic,Ruta Maya Organic Medium Roast Whole Bean Coffee 5 lb,44.99,4.7,2525,0.9413376751888295,4.6948067534206155
+Organic,Ruta Maya Organic Jiguaní Whole Bean Coffee 5 lb,47.99,4.7,631,0.9408867733852225,4.680426623272437
+Organic,"Kirkland Signature, Organic Tomato Sauce, 15 oz, 12-Count",9.49,4.65,0,0.9379233465336998,4.447392647515979
+Pantry & Dry Goods,Namaste Gluten Free Waffle & Pancake Mix 3 lb 2-pack (6 lbs Total),27.99,5.0,1,0.9963927853961441,4.457626117006424
+Pantry & Dry Goods,eat.art Salt and Spice Set 2-pack,44.99,5.0,3,0.9938376751757044,4.476996612827623
+Pantry & Dry Goods,"Kirkland Signature Organic Ground Saigon Cinnamon, 10.7 oz., 2-count",19.99,4.9,906,0.9800951902101378,4.874986246421634
+Pantry & Dry Goods,"Kirkland Signature Organic Hemp Hearts, 3-pack (6 lbs Total)",54.99,4.9,41,0.9748346691680563,4.644806492748372
+Pantry & Dry Goods,Manuka Health UMF 10+ (MGO 263+) Raw Manuka Honey 17.6 oz,29.99,4.8,1241,0.9610921842024893,4.785557813229016
+Paper & Plastic Products,"Artstyle Paper Plate & Napkin Bundle, Year of the Dragon Lunar New Year, 200-count",28.99,5.0,3,0.9962424847949417,4.476996612827623
+Paper & Plastic Products,"Eco Raj 12 oz Compostable Bagasse Bowl, 1000-count",79.99,5.0,4,0.9885771541336229,4.486172110848192
+Paper & Plastic Products,"Kleenex Ultra Slim Wallet Facial Tissue, 3-Ply, 10-count, 36-pack",22.49,4.7,837,0.9447194387158819,4.684957090245334
+Paper & Plastic Products,"Artstyle Paper Plate & Napkin Bundle, Confetti Celebration, 200-count",23.99,4.7,116,0.9444939878140783,4.620779942712112
+Paper & Plastic Products,"Eco Raj 9-inch Compostable Bagasse Plate, 500-count",57.99,4.7,10,0.9393837673731993,4.4874890526721725
+Poultry,"All Natural Raw Duck Legs - (8/2 Legs Per Pack, 8.5 Oz Per Leg), 16 Total Legs, 8 Total Packs, 8.5 Lbs. Total",149.99,4.7,20,0.9255561120625848,4.516600141347218
+Poultry,"All Natural Boneless Duck Breast - (8/7 Oz. Per Duck Breast), 16 Total Breasts, 8 Total Packs, 7Lbs. Total",179.99,4.6,42,0.9035470940308898,4.514861161245756
+Poultry,"Farmer Focus Organic Boneless/Skinless Chicken Breasts, (20/8 Oz. Per Breast), 20 Total Count, 10 Lbs. Total",149.99,4.5,249,0.8905561120713348,4.490767583835586
+Poultry,"Hillshire Farm Slow Roasted Turkey Breast, 11 oz, 3-count",154.99,4.5,4,0.8898046090653232,4.451084391549946
+Poultry,"Fully Cooked Confit Duck Legs - (8/1 Lbs. Per Pack), 16 Legs, 8 Total Packs, 8 Lbs. Total",179.99,4.5,40,0.8860470940352649,4.470019465788677
+Seafood,"Mahi Mahi Boneless, (26-27/Skinless 6 Oz. Portions Per Each Pack), 26-27 Total Packs, 1 Case Totaling 10 Lbs.",249.99,4.8,84,0.9280260519379768,4.663589856338299
+Seafood,"Alaska Black Cod (Sable Fish) - Individual Packed Portions (19-25/6-8 Oz. Per Portion), 1 Case Totaling 10 Lbs.",269.99,4.8,190,0.9250200399139302,4.723093869622827
+Seafood,"American Red Snapper - Whole, Head-On, Cleaned, (5-7 Individually Vacuum Packed Portions/ 1.5-2 Lbs Per Fish) - Total 10Lbs.",189.99,4.7,23,0.9195440880144917,4.523839609451933
+Seafood,"Ahi Tuna Individual Vacuum Packed Portion (26-27/6 Oz. Per Portion), 26-27 Total Packs, 10 Lbs. Total Case",149.99,4.6,1237,0.9080561120669597,4.593730085518098
+Seafood,"Trident Seafoods Smoked Sockeye Salmon, 2 Gift Packs",59.99,4.5,1550,0.9040831661795445,4.498260642743822
+Snacks,"G2G 3-pack Almond Chocolate Chip Protein Bars, 24-count",49.99,5.0,11,0.9930861721696929,4.542372036224171
+Snacks,"G2G 3-pack Peanut Butter & Jelly Protein Bars, 24-count",49.99,5.0,2,0.9930861721696929,4.4674874603335795
+Snacks,G2G 3-pack Peanut Butter Coconut Chocolate Protein Bars 24-count,39.99,4.8,273,0.9595891781904661,4.742674264780205
+Snacks,G2G Protein Bar Variety 3-pack (24 Total Bars),49.99,4.8,101,0.9580861721784428,4.678648118950305
+Snacks,Our Heroes' Care Pack ,56.99,4.8,477,0.9570340679700264,4.764739264751598
