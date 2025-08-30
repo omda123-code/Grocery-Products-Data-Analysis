@@ -78,23 +78,23 @@ This shows opportunity for promotions in these areas.
 
 ## 📊 Key Visuals :
 
-### 1. Price Distribution
+### 1. Price Distribution :
 Shows the overall distribution of product prices.  
 ![Price Distribution](Images/fig_price_dist.png)
 
-### 2. Rating Distribution
+### 2. Rating Distribution :
 Highlights how ratings are spread across products.  
 ![Rating Distribution](Images/fig_rating_dist.png)
 
-### 3. Rating vs Price
+### 3. Rating vs Price :
 Scatterplot showing the relationship between product price and rating.  
 ![Rating vs Price](Images/fig_rating_vs_price.png)
 
-### 4. Bayesian Rating by Category
+### 4. Bayesian Rating by Category :
 Average Bayesian rating across categories.  
 ![Category Bayesian](Images/fig_categories_bayes.png) 
 
-### 5. Keyword Impact on Bayesian Rating
+### 5. Keyword Impact on Bayesian Rating :
 Keywords that positively influence ratings.  
 ![Keyword Bayesian](Images/fig_keyword_bayes.png)
 
