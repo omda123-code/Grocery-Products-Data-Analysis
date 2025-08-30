@@ -80,23 +80,23 @@ This shows opportunity for promotions in these areas.
 
 ### 1. Price Distribution
 Shows the overall distribution of product prices.  
-![Price Distribution](images/fig_price_dist.png)
+![Price Distribution](Images/fig_price_dist.png)
 
 ### 2. Rating Distribution
 Highlights how ratings are spread across products.  
-![Rating Distribution](images/fig_rating_dist.png)
+![Rating Distribution](Images/fig_rating_dist.png)
 
 ### 3. Rating vs Price
 Scatterplot showing the relationship between product price and rating.  
-![Rating vs Price](images/fig_rating_vs_price.png)
+![Rating vs Price](Images/fig_rating_vs_price.png)
 
 ### 4. Bayesian Rating by Category
 Average Bayesian rating across categories.  
-![Category Bayesian](images/fig_categories_bayes.png)
+![Category Bayesian](Images/fig_categories_bayes.png) 
 
 ### 5. Keyword Impact on Bayesian Rating
 Keywords that positively influence ratings.  
-![Keyword Bayesian](images/fig_keyword_bayes.png)
+![Keyword Bayesian](Images/fig_keyword_bayes.png)
 
 ## 🚀 Conclusion :
 - **Organic & coffee products** lead in customer satisfaction.  
